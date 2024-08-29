@@ -16,27 +16,34 @@ const Experience = () => {
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Web Developer Executive"
-            subTitle="Zenith Go Digital  - (2023 - Present)"
+            title="Business Development Associate"
+            subTitle="Byju's  - (Jan 2024 - Apr 2024)"
             result="Noida"
-            des="Zenith Go Digital's hiring process is a vital part of our company culture. Our team members care deeply about their colleagues and the people who make up our organization."
+            des="Provided guidance and counseling to prospective students regarding various 4-12 & JEE/NEET/UPSC courses offered. 
+            Advised students on specific degree programs, career opportunities, and educational pathways tailored to their interests and goals."
+          />
+          <ResumeCard
+            title="Web Developer Executive"
+            subTitle="Zenith Go Digital  - (Apr 2023 - Jun 2023)"
+            result="Noida"
+            des="Leverage strong problem-solving and analytical skills to quickly grasp and implement complex React.js concepts and technologies. Translate business requirements into technical specifications, ensuring alignment with React.js development standards."
           />
           <ResumeCard
             title="Junior Web Developer "
-            subTitle="CodingExpo Technology  - (2021 - 2023)"
+            subTitle="CodingExpo Technology  - (Jul 2021 - Apr 2023)"
             result="Noida"
-            des="A popular destination with a growing number of highly qualified homegrown graduates, it's true that securing a role in Malaysia isn't easy."
+            des="Developed user-friendly interfaces using React.js for web applications, ensuring high performance and responsiveness. Implemented Redux for state management, maintaining a centralized store for application data and improving scalability."
           />
-          <ResumeCard
+          {/* <ResumeCard
             title=" Internship"
-            subTitle="Codules Technologies - (1 Month)"
+            subTitle="Codules Technologies - (Jul 2020 - Aug 2020)"
             result="Greater Noida "
             des="Chat Web is an innovative chatting website designed to facilitate
                 seamless communication between users. Powered by Java
                 technology, this platform enables real-time interactions and
                 fosters engaging conversations in a user-friendly environment.
                 "
-          />
+          /> */}
         </div>
       </div>
       {/* <div>

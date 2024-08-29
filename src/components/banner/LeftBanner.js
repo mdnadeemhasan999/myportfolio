@@ -26,7 +26,7 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-          Experienced web developer with 3 years of expertise in React.js and
+          Experienced web developer with 2 years of expertise in React.js and
           WordPress. Proven success in delivering high-performance websites on
           schedule, collaborating effectively across teams. Committed to
           blending creativity and technical skills to exceed client expectations
